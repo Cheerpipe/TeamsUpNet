@@ -1,0 +1,8 @@
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\bin\Release\TeamsUpNet.exe.config
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\bin\Release\TeamsUpNet.exe
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\bin\Release\TeamsUpNet.pdb
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\obj\Release\TeamsUpNet.Properties.Resources.resources
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\obj\Release\TeamsUpNet.csproj.GenerateResource.cache
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\obj\Release\TeamsUpNet.csproj.CoreCompileInputs.cache
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\obj\Release\TeamsUpNet.exe
+D:\Warez\Proyectos C#\TeamsUpNet\TeamsUpNet\obj\Release\TeamsUpNet.pdb

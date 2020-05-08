@@ -1,0 +1,9 @@
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\bin\Debug\TeamsUpNetAgent.exe.config
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\bin\Debug\TeamsUpNetAgent.exe
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\bin\Debug\TeamsUpNetAgent.pdb
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\obj\Debug\TeamsUpNetAgent.Properties.Resources.resources
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\obj\Debug\TeamsUpNetAgent.csproj.GenerateResource.cache
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\obj\Debug\TeamsUpNetAgent.csproj.CoreCompileInputs.cache
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\obj\Debug\TeamsUpNetAgent.exe
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\obj\Debug\TeamsUpNetAgent.pdb
+C:\Users\Cheerpipe\source\repos\TeamsUpNet\TeamsUpNetAgent\obj\Debug\TeamsUpNetAgent.csprojAssemblyReference.cache
